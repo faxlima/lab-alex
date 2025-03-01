@@ -1,1 +1,2 @@
 [2025.03.01T13:23] Registro #1 do file-02.
+[2025.03.01T13:40][test] Registro #2 do file-02.
