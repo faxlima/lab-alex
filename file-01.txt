@@ -1,1 +1,2 @@
-[2025.03.01T13:11] Inserção do primeiro registro do file-01.
+[2025.03.01T13:11] Registro #1 fo file 01.
+[2025.03.01T13:44] Registro #2 fo file 01.
